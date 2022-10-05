@@ -18,10 +18,10 @@
     Apareixen 2 activitats:
     - La pantalla de Login: 
     <br>
-    ![Texto alternativo](./MainActivity.png){width=90 height=90}
+    ![MainActivity.png not Working, unknown reason](./MainActivity.png)
     - La pantalla de Welcome:
     <br>
-    ![Texto alternativo](./ScreenActivity.png)
+    ![MainActivity.png not Working, unknown reason](./ScreenActivity.png)
     <br>
 
     La principal diferencia entre ambes es l'existencia de l'etiqueta intent-filter, la cual se encarrega de declar lo que una activitat por fer i que tipus de emisions pot fer el receptor
