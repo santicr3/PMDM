@@ -18,11 +18,11 @@
     Apareixen 2 activitats:
     - La pantalla de Login: 
     <br>
-    <img src="./MainActivity.png">
+    <img src="Pictures/MainActivity.png">
     <br>
     - La pantalla de Welcome:    
     <br>
-    <img src="./ScreenActivity.png">
+    <img src="Pictures/ScreenActivity.png">
     <br>
 
     La principal diferencia entre ambes es l'existencia de l'etiqueta intent-filter, la cual se encarrega de declar lo que una activitat por fer i que tipus de emisions pot fer el receptor
