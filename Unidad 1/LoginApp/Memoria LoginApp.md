@@ -18,31 +18,10 @@
     Apareixen 2 activitats:
     - La pantalla de Login: 
     <br>
-    `
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-    `
-    <br>
+    ![Texto alternativo](./MainActivity.png)
     - La pantalla de Welcome:
     <br>
-    `
-        <activity
-                android:name=".ScreenActivity"
-                android:exported="false">
-                <meta-data
-                    android:name="android.app.lib_name"
-                    android:value="" />
-        </activity>
-    `
+    ![Texto alternativo](./ScreenActivity.png)
     <br>
 
     La principal diferencia entre ambes es l'existencia de l'etiqueta intent-filter, la cual se encarrega de declar lo que una activitat por fer i que tipus de emisions pot fer el receptor
