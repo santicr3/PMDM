@@ -18,7 +18,7 @@
     Apareixen 2 activitats:
     - La pantalla de Login: 
     <br>
-    ![Texto alternativo](./MainActivity.png){width=width height=height}
+    ![Texto alternativo](./MainActivity.png){width=90 height=90}
     - La pantalla de Welcome:
     <br>
     ![Texto alternativo](./ScreenActivity.png)
