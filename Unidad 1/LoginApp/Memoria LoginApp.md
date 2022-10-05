@@ -18,7 +18,7 @@
     Apareixen 2 activitats:
     - La pantalla de Login: 
     <br>
-    ![MainActivity.png not Working, unknown reason](./MainActivity.png)
+    <img src="./MainActivity.png">
     - La pantalla de Welcome:
     <br>
     ![MainActivity.png not Working, unknown reason](./ScreenActivity.png)
