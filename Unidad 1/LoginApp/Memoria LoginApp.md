@@ -19,7 +19,8 @@
     - La pantalla de Login: 
     <br>
     <img src="./MainActivity.png">
-    - La pantalla de Welcome:
+    <br>
+    - La pantalla de Welcome:    
     <br>
     <img src="./ScreenActivity.png">
     <br>
