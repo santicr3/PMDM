@@ -21,7 +21,7 @@
     <img src="./MainActivity.png">
     - La pantalla de Welcome:
     <br>
-    ![MainActivity.png not Working, unknown reason](./ScreenActivity.png)
+    <img src="./ScreenActivity.png">
     <br>
 
     La principal diferencia entre ambes es l'existencia de l'etiqueta intent-filter, la cual se encarrega de declar lo que una activitat por fer i que tipus de emisions pot fer el receptor
