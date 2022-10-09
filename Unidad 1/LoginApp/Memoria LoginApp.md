@@ -25,7 +25,7 @@
     <img src="Pictures/ScreenActivity.png">
     <br>
 
-    La principal diferencia entre ambes es l'existencia de l'etiqueta intent-filter, la cual se encarrega de declar lo que una activitat por fer i que tipus de emisions pot fer el receptor
+    La principal diferencia entre ambes es l'existencia de l'etiqueta intent-filter, la cual se encarrega de declar lo que una activitat pot fer i que tipus de emisions pot fer el receptor
 
 - Observa l’atribut android:exported en elles i investiga en la documentació d’Android què significa i quines repercusions té el seu valor en l’aplicació.
 
